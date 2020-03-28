@@ -34,3 +34,7 @@ function btn001(){
 		document.getElementById("message001").innerHTML=text001;
 	}
 }
+function end()
+{
+	alert("Your request has been submitted. Our employees will visit within few working days");
+}
